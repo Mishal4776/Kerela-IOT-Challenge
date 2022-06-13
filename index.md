@@ -1,6 +1,3 @@
-Kerala-IoT-Challenge
-====================
-
 ](/Kerala-IoT-Challenge/)
 
 [View on GitHub](https://github.com/arjunkr2001/Kerala-IoT-Challenge)
