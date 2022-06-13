@@ -1,7 +1,3 @@
-                Kerala-IoT-Challenge          {"url":"https://mishal4776.github.io/Kerela-IoT-Challenge/","@type":"WebSite","headline":"Kerala-IoT-Challenge","name":"Kerala-IoT-Challenge","@context":"https://schema.org"} 
-
-[
-
 Kerala-IoT-Challenge
 ====================
 
