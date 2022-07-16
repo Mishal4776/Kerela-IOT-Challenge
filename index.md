@@ -9,7 +9,7 @@ Kerala-IoT-Challenge
 > About Me
 > ========
 > 
-> Hi, I am Arjun KR, 3rd year Computer Science Engineering student from IES College of Engineering Chittilappilly, Thrissur. I like to explore and learn new technologies related to computers. And also I am into web development.
+> Hi, I am Mishal K A, 2nd year Electronics And Communication Diploma student from Govt Polytechnic College Kalamassery, Ernakulam. I like to explore and learn new technologies related to computers. And also I am into web development.
 
 Table of Contents
 =================
