@@ -1,5 +1,5 @@
 
-[View on GitHub](https://github.com/arjunkr2001/Kerala-IoT-Challenge)
+[View on GitHub](https://github.com/Mishal4776/Kerela-IoT-Challenge)
 
 Kerala-IoT-Challenge
 ====================
